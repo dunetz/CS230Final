@@ -16,7 +16,7 @@
 #### 2016HybridTest: Conv2d with hybrid features -- Test
 #### 3016: Conv1d with Dilation and Causal Padding (Wavenet-type Model)
 #### 3016Test: Wavenet-type Model - Test
-#### 4016: Conv2d-LSTM - Traiing
+#### 4016: Conv2d-LSTM - Training
 #### 4016Test: Conv2d-LSTM Test
 #### 5002: Transfer Learning
-#### 5002: Transfer Learning Test
+#### 5002Test: Transfer Learning Test
