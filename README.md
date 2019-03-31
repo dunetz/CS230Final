@@ -1,10 +1,10 @@
 ##### Visualization and Prediction for a Limit Order Book
-##### Folders
-##### Data: Contains 10 zip files, one for each day of data
-##### Input: Contains classes for reading the zip files and creating Pandas files
-##### Model: Contains classes for generating batches of data
-##### Code: Contains 2 jupyter notebooks for performing basic visualization of the dataset and analysis with a variety of classifiers including logistic regression, random forest, SVM and feed forward neural network.
-##### Papers: Contains papers referenced by the project including a paper describing the dataset
+##### Folders:
+#####      Data: Contains 10 zip files, one for each day of data
+#####      Input: Contains classes for reading the zip files and creating Pandas files
+#####      Model: Contains classes for generating batches of data
+#####      Code: Contains 2 jupyter notebooks for performing basic visualization of the dataset and analysis with a variety of classifiers including logistic regression, random forest, SVM and feed forward neural network.
+#####      Papers: Contains papers referenced by the project including a paper describing the dataset
 ##### Model.pdf - provides a summary of the model runs performed over the course of the project
 ##### Key notebooks
 ###### 1000: LSTM Training
